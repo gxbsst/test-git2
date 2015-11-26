@@ -4,3 +4,6 @@ class Model:
 
   def close(self):
     pass
+
+  def open(self):
+    pass
