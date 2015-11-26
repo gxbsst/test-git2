@@ -7,3 +7,6 @@ class Model:
 
   def open(self):
     pass
+  
+  def release(self):
+    pass
